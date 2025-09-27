@@ -1,0 +1,6 @@
+TODO
+[] Clean the house
+[X] Learn a new word
+[X] Finish project
+[] Meet Emma at local pub
+[!] Dance party at 9:00pm
